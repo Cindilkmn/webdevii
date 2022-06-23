@@ -1,0 +1,31 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #5F9EA0;
+}
+
+#galery {
+  background-color: #5F9EA0;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.image-box {
+  height: 250px;
+}
+
+.image-box img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
